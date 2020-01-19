@@ -1,1 +1,2 @@
 git log --pretty=format:"%h -%d %s %cd" --graph
+jnfbnedgr
